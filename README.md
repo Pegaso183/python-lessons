@@ -1,2 +1,2 @@
-# python-lessons
-Lecciones de codificación en Python
+# Python Lessons
+Lecciones de codificación con Python.
